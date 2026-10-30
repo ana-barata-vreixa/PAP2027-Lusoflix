@@ -1,4 +1,4 @@
-# [Lusoflix]
+# Lusoflix
 **PAP 2027 – TGPSI, Escola Secundária de Vergílio Ferreira**
 Aluno: Ana de Melo Barata  Turma 12/13.· Nº 2
 Professor orientador: Jorge Silva
@@ -46,9 +46,9 @@ O projeto é uma plataforma de streaming chamada Lusoflix, desenvolvida para per
 
 ## Tecnologias
 | Camada | Tecnologia 
-| Interface | [HTML, CSS, JavaScript] |
+| Interface | HTML, CSS, JavaScript |
 | Servidor | Por definir |
-| Base de dados | [MySQL  |
+| Base de dados | MySQL  |
 | Outras | Bootstrap, Local Storage |
 
 ## Base de dados (tabelas previstas)
